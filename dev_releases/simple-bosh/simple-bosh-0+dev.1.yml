@@ -1,0 +1,9 @@
+name: simple-bosh
+version: 0+dev.1
+commit_hash: 8e47775
+uncommitted_changes: true
+jobs:
+- name: hello-world
+  version: 474b79c35c3f962e8ed22bdd59b891a9fe52c6f1
+  fingerprint: 474b79c35c3f962e8ed22bdd59b891a9fe52c6f1
+  sha1: d7e2cddc4da1c9955d39ab6527b1d57c657f2a3d
